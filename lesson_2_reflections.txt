@@ -19,6 +19,10 @@ You could add only the files involved in a change to commit, then do others late
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When you want to make a huge change but you don't know if you want to keep it
+or if it'll become a new program
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
