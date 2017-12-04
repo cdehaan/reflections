@@ -37,3 +37,6 @@ It's like tree branches coming back together.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+manually is slow, and you might introduce mistakes
+auto can make mistakes if it thinks it understands better than it does
