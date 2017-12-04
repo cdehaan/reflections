@@ -6,3 +6,10 @@ When you're working in my places, or on a project with many people.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Someone else might have made a change that you don't want. Also, security reasons.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are to copy someone else's stuff so I can use it, all online.
+Clones are other times you copy
+Brances are different states of the code in one repository
